@@ -1,0 +1,31 @@
+{
+  "name": "nadb",
+  "version": "1.0.0",
+  "description": "an adb client made with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptykid/nadb.git"
+  },
+  "keywords": [
+    "adb",
+    "nodejs"
+  ],
+  "author": "xiaoqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptykid/nadb/issues"
+  },
+  "homepage": "https://github.com/emptykid/nadb#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1"
+  },
+  "dependencies": {
+    "@types/node": "^13.9.1",
+    "net": "^1.0.2"
+  }
+}
